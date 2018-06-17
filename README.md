@@ -38,4 +38,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Test case
 
-Click on any search entry, type JAVA and click on the button with the magnifying glass icon to search.
+Click on any search entry, white JAVA and click on the button with the magnifying glass icon to search.
